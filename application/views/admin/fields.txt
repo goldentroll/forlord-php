@@ -1,0 +1,7 @@
+name,
+website,
+Membership cost,
+plans ->image upload (multiple)
+Notes
+
+in this fields add
